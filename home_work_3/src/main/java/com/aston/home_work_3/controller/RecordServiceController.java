@@ -1,4 +1,4 @@
-package com.aston.home_work_3.contriller;
+package com.aston.home_work_3.controller;
 
 import com.aston.home_work_3.service.RecordService;
 import org.springframework.web.bind.annotation.GetMapping;
